@@ -9,3 +9,5 @@ I am a final year undergraduate student currently pursuing my B.Tech in Computer
 - 🤔 I’m looking for internships and full time roles in the tech community. 
 - 📫 How to reach me: akshatarora411@gmail.com
 - ⚡ Fun fact: 🎸 I craft web applications by day and melodies by night – I'm not just a coding enthusiast, but also a passionate guitarist! 🎶
+
+### Connect with me 
