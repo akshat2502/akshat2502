@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**akshat2502/akshat2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+i am a final year student and a full stack web developer.
 
 Here are some ideas to get you started:
 
