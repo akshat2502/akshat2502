@@ -29,7 +29,7 @@ I am a Final Year Undergraduate Student currently pursuing my B.Tech in Computer
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@akshat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@akshat" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat2502&show_icons=true&locale=en&layout=compact" alt="akshat2502" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat2502&show_icons=true&locale=en" alt="akshat2502" /></p>
