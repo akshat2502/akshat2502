@@ -10,12 +10,6 @@ As a Final Year Undergraduate Student pursuing a B.Tech in Computer Science in D
 - 📫 How to reach me: akshatarora411@gmail.com
 - ⚡ Fun fact: 🎸 I craft web applications by day and melodies by night – I'm not just a coding enthusiast, but also a passionate guitarist! 🎶
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat2502&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2502" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat2502" alt="akshat2502" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/akshatarora03" target="blank"><img src="https://img.shields.io/twitter/follow/akshatarora03?logo=twitter&style=for-the-badge" alt="akshatarora03" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshatarora03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatarora03" height="30" width="40" /></a>
