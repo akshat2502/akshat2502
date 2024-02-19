@@ -31,7 +31,3 @@ As a Final Year Undergraduate Student pursuing a B.Tech in Computer Science in D
 <p><a href="https://www.buymeacoffee.com/akshatarorm?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@akshat" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat2502&show_icons=true&locale=en&layout=compact" alt="akshat2502" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat2502&show_icons=true&locale=en" alt="akshat2502" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat2502&" alt="akshat2502" /></p>
