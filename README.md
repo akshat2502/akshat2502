@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshat</h1>
+
 
 As a Final Year Undergraduate Student pursuing a B.Tech in Computer Science in Delhi, I specialize in full-stack web development, mastering key technologies like JavaScript, HTML, CSS, and SQL. With expertise in React.js and Express.js, I craft efficient web solutions. I've mentored in the renowned GirlScript Summer of Code program (GSsoc), sharpening leadership skills and deepening my tech understanding. Passionate about emerging technologies, I'm dedicated to scaling websites for seamless user experiences. Excited to contribute expertise and enthusiasm to impactful web projects. Explore my portfolio website here: https://portfolio-sigma-ivory-78.vercel.app/
 
